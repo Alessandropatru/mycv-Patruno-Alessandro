@@ -4,6 +4,8 @@
 Sono un soggetto sempre alla ricerca di nuovi stimoli,
 
 con una forte propensione a mettermi alla prova in ambienti e scenari nuovi.
+
+
 Punti focali della mia personalità sono versatilità e creatività.
 
 ## Esperienze professionali
