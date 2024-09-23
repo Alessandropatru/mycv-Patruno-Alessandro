@@ -48,6 +48,7 @@ Punti focali della mia personalità sono versatilità e creatività. 👨‍🎨
 | LINGUE     | LIVELLO |
 | ----------- | ----------- |
 | ITALIANO     | MADRELINGUA   |
+| ITALIANO     | MADRELINGUA   |
 | INGLESE   |   B1     |
 
 
