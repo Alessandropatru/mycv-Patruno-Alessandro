@@ -1,6 +1,6 @@
 
    
-   ![image](https://github.com/user-attachments/assets/4730558b-452c-4878-a9e7-1cb64c44234e)
+![Immagine casuale](https://picsum.photos/200/300)
 
 # Chi sono?
 
@@ -29,7 +29,7 @@ Punti focali della mia personalità sono versatilità e creatività. 👨‍🎨
 
 5. Manovale e pulitore presso Aereoporti di Puglia. ✈️
 
-## Competenze 🔨
+## Competenze  🔨
 
 1. Buona conoscenza pacchetto Office
 2. Incline al lavoro in team
@@ -39,7 +39,7 @@ Punti focali della mia personalità sono versatilità e creatività. 👨‍🎨
 6. Abile nella comunicazione
  
 
-### Istruzione e formazione
+### Istruzione e formazione  📗
 - Diploma liceo scientifico(scienze applicate)
     - VOTAZIONE 75/100
     - ANNO 2016-2020
