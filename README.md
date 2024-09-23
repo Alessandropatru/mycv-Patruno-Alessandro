@@ -3,11 +3,12 @@
    ![image](https://github.com/user-attachments/assets/4730558b-452c-4878-a9e7-1cb64c44234e)
 
 # Chi sono?
-"Nome": Alessandro Pio Patruno
 
-"Email": patrunoalessandro2001@gmail.com
+*Nome*: Alessandro Pio Patruno
 
-"Telefono": 3206182931
+*Email*: patrunoalessandro2001@gmail.com
+
+*Telefono*: 3206182931
  
 # CurriculumVitae di Patruno Alessandro
 
