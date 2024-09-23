@@ -10,7 +10,7 @@
 
 *Telefono*: 3206182931
  
-# CurriculumVitae di Patruno Alessandro
+# Curriculum Vitae di Patruno Alessandro
 
 Sono un soggetto sempre alla ricerca di nuovi stimoli,
 
