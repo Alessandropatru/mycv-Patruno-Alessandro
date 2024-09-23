@@ -31,9 +31,8 @@ Punti focali della mia personalità sono versatilità e creatività. 👨‍🎨
 
 ### Istruzione e formazione
 - Diploma liceo scientifico(scienze applicate)
- - VOTAZIONE 75/100
+    - VOTAZIONE 75/100
     - ANNO 2016-2020
-  
 
 
 
