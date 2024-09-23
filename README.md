@@ -4,7 +4,9 @@
 
 # Chi sono?
 "Nome": Alessandro Pio Patruno
+
 "Email": patrunoalessandro2001@gmail.com
+
 "Telefono": 3206182931
  
 # CurriculumVitae di Patruno Alessandro
