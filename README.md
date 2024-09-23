@@ -27,3 +27,20 @@ Punti focali della mia personalità sono versatilità e creatività. 👨‍🎨
 4. Problem-solving
 5. Flessibilità e capacità di adattamento a nuovi ambienti e cambiamenti
 6. Abile nella comunicazione
+ 
+
+### Istruzione e formazione
+- Diploma liceo scientifico(scienze applicate)
+ - VOTAZIONE 75/100
+    - ANNO 2016-2020
+  
+
+
+
+
+
+
+
+
+
+
