@@ -2,10 +2,7 @@
 
 
 
-
-
-
-  
+ 
 # CurriculumVitae di Patruno Alessandro
 
 Sono un soggetto sempre alla ricerca di nuovi stimoli,
