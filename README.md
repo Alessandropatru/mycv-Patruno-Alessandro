@@ -20,3 +20,10 @@ Punti focali della mia personalità sono versatilità e creatività. 👨‍🎨
 5. Manovale e pulitore presso Aereoporti di Puglia. ✈️
 
 ## Competenze 🔨
+
+1. Buona conoscenza pacchetto Office
+2. Incline al lavoro in team
+3. Eccellenti capacità di collaborazione   
+4. Problem-solving
+5. Flessibilità e capacità di adattamento a nuovi ambienti e cambiamenti
+6. Abile nella comunicazione
