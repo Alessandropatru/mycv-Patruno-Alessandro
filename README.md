@@ -1,4 +1,11 @@
-   ![image](https://github.com/user-attachments/assets/06cf81ff-f468-4eb3-8655-1c0baf7b1732)
+
+   
+   ![image](https://github.com/user-attachments/assets/4730558b-452c-4878-a9e7-1cb64c44234e)
+
+# Chi sono?
+"Nome": Alessandro Pio Patruno
+"Email": patrunoalessandro2001@gmail.com
+"Telefono": 3206182931
  
 # CurriculumVitae di Patruno Alessandro
 
@@ -33,7 +40,8 @@ Punti focali della mia personalità sono versatilità e creatività. 👨‍🎨
 - Diploma liceo scientifico(scienze applicate)
     - VOTAZIONE 75/100
     - ANNO 2016-2020
-
+  
+  
 
 
 
