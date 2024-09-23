@@ -43,10 +43,12 @@ Punti focali della mia personalità sono versatilità e creatività. 👨‍🎨
 - Diploma liceo scientifico(scienze applicate)
     - VOTAZIONE 75/100
     - ANNO 2016-2020
-  
-  
 
 
+| LINGUE     | LIVELLO |
+| ----------- | ----------- |
+| ITALIANO     | MADRELINGUA   |
+| INGLESE   |   B1     |
 
 
 
