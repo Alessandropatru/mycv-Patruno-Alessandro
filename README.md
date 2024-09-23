@@ -1,4 +1,11 @@
+![image](https://github.com/user-attachments/assets/06cf81ff-f468-4eb3-8655-1c0baf7b1732)
 
+
+
+
+
+
+  
 # CurriculumVitae di Patruno Alessandro
 
 Sono un soggetto sempre alla ricerca di nuovi stimoli,
@@ -18,3 +25,4 @@ Punti focali della mia personalità sono versatilità e creatività.
 4. Addetto alla vendita al dettagli di scarpe
 
 5. Manovale e pulitore presso Aereoporti di Puglia
+
